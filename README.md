@@ -1,4 +1,4 @@
-# Hello there, and Welcome! :wave:
+# Hello there, and welcome to my GitHub page! :wave:
 ```javascript 
 let name = "Isaak Dyck";
 let age = 24;
